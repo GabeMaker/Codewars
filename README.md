@@ -1,0 +1,1 @@
+This is a repo to store soultuions to katas from Codewars.com (and related learning)
